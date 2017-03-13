@@ -9,15 +9,20 @@ Introductory blog post: https://medium.com/@thejameskyle/react-loadable-2674c59d
 - [`src/components/App.js`](./src/components/App.js)
 - [`src/components/Loading.js`](./src/components/Loading.js)
 - [`src/components/Example.js`](./src/components/Example.js)
-- [`webpack.config.js`](./webpack.config.js)
 
 **Running locally**
 
-```js
-git clone git@github.com:thejameskyle/react-loadable-example.git
+Follow [these instructions](https://www.meteor.com/install) to install the
+Meteor command-line tool, if you don't have it already.
+
+Now run these commands:
+
+```sh
+git clone git@github.com:meteor/react-loadable-example.git
 cd react-loadable-example
-yarn install
-yarn start
+meteor npm install --global yarn # if necessary
+meteor yarn
+meteor run
 ```
 
-Then open up [localhost:8000](http://localhost:8000) in your browser.
+Then open up [localhost:3000](http://localhost:3000) in your browser.
