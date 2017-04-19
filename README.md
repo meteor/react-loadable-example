@@ -6,9 +6,9 @@ Introductory blog post: https://medium.com/@thejameskyle/react-loadable-2674c59d
 
 **Important files**
 
-- [`src/components/App.js`](./src/components/App.js)
-- [`src/components/Loading.js`](./src/components/Loading.js)
-- [`src/components/Example.js`](./src/components/Example.js)
+- [`src/components/App.js`](https://github.com/meteor/react-loadable-example/blob/master/imports/components/App.js)
+- [`src/components/Loading.js`](https://github.com/meteor/react-loadable-example/blob/master/imports/components/Loading.js)
+- [`src/components/Example.js`](https://github.com/meteor/react-loadable-example/blob/master/imports/components/Example.js)
 
 **Running locally**
 
